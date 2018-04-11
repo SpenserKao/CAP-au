@@ -20,7 +20,7 @@ Should we raise the issue to the authority who can correct the anomaly?
 
 ### Fully expanded schemas set diagram
 Before the the resolution is implemented offcially, at least we can have a bird-eye view of the schemas set through a 
-![fully expanded schemas set diagram](fullyExpandedSchemasDiag-capau-30.png "fully expanded schemas set diagram"). 
+<a href="fullyExpandedSchemasDiag-capau-30.png">fully expanded schemas set diagram</a>. 
 
 ## Semantics rules
 Judged by the report from Google-hosted CAP validator, there appears some set of semantics rules, which I used to call cross-element checking rules - on top structural rules already governed by affore-mentioned schemas set. 

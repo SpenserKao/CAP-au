@@ -7,13 +7,13 @@ The officicial home page of CAP-au is [1] and its Schemas set (XSD) ver 3.0 is a
 ### Issue with the ver 3.0 XSD
 Duplicate definitions of Element 'code' - at line#110 and #117 is causing ill-formedness, as shown in the screenshot below.
 <img href="duplicateCodeElementDefinitions.jpg"/>
+![duplicate Code Element Definitions](duplicateCodeElementDefinitions.jpg "duplicate Code Element Definitions") 
 
 This means that it cannot be used any further. On the contrary, CAP ver 1.2 [3] doesn't present such issue.
 
 #### The resolution
 See screenshot for an easy resolution.
-<img href="fixed-duplicateCodeElementDefinitions"/>
-
+![fixed duplicate Code Element Definitions](fixed-duplicateCodeElementDefinitions.jpg "fixed duplicate Code Element Definitions") 
 
 
 

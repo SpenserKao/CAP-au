@@ -33,5 +33,5 @@ If they are not existial yet, should the custodian be sitting down with individu
 # Reference
 [1] https://data.gov.au/dataset/cap-au-std<br/>
 [2] https://data.gov.au/dataset/cap-au-std/resource/137e98ce-f069-48ca-a420-274afc4ad78c<br/>
-[3] https://github.com/google/cap-library/blob/master/schema/cap12_extended.xsd
+[3] https://github.com/google/cap-library/blob/master/schema/cap12_extended.xsd<br/>
 [4] https://cap-validator.appspot.com/
